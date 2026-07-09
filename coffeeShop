@@ -1,0 +1,6 @@
+# Coffee Shop Simulator
+# Copyright (c) 2023 ClydeBank Media, All Rights Reserved.
+
+print("ClydeBank Media Coffee Shop Simulator 400, Version 1.00")
+print("Copyright (c) 2023 ClydeBank Media, All Rights Reserved.\n")
+print("Let's collect some informationbefore we start the game.\n")
